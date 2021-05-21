@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+    color: white;
+}
+
+span {
+    color: green;
+}
+
+.texto-ejemplo {
+    background: purple;
+    color: white;
+}
+
+#texto1 {
+    color: red;
+}
+
+[ejemplo='valor'] {
+    background: blue;
+    color: white;
+}
+
+p i {
+    background: green;
+    color: black;
+}
+
+#texto2:hover{
+    background: yellow;
+    color: black;
+}
